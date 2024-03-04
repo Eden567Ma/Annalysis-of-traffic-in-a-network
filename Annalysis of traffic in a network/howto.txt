@@ -1,0 +1,23 @@
+Project Summary
+
+This project integrates all the knowledge we have acquired so far. It covers various aspects such as the components of a frame, the size, and the content of these fields. It also delves into the main procedures crucial for extracting protocols and defining their values.
+
+This work has been briefly introduced in our video. In addition to that, here is this file which outlines the steps to be taken.
+Execution Steps
+
+    Download and Unzip the repository.
+    To run the program, simply execute the following commands:
+    a. python visualizer.py to run the code.
+    It's normal if no graph is generated at this point because this command also generates a .puml file containing the necessary information to draw the graph.
+    b. napkin_plantuml visualization.puml visualization.txt to draw the graph by generating a .txt file containing the flow graph to be displayed.
+
+Program Execution Process
+
+After the fundamental commands necessary for the proper functioning of the program, here are the steps that may be given during the process:
+
+After running the first command, you will be prompted to enter a file to process. Please enter a valid text file name. You will also be asked if you want to use a filter. Please respond with "yes" or "no". If yes, specify the type of filter you want to use, either a filter by IP address or by protocol. Then, enter the protocol or IP address to filter.
+Graphical Interface
+
+The main display has indeed been established in the terminal. The following serves as a complement to the video. So please carefully review the commands to correctly install the libraries. In our case, PILLOW and Tkinter.
+
+After installation, the only remaining procedure is to press the run button of the inter.py file.

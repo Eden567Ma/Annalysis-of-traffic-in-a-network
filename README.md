@@ -6,11 +6,6 @@
 
 ## Archive Contents
 
-Cette archive contient : 
-1. Le fichier _visualisateur.py_, le code source du projet.
-2. Le fichier _howto_ qui explique comment lancer le programme. 
-3. Des fichiers en .txt, qui contiennent soit les trames à analyser.
-4. Une Interface  qui permet de visualiser les informations relatives au traffic des donnees dans un reseau
 
 This archive contains:
 1. The file _visualisateur.py_, the source code of the project
@@ -71,7 +66,18 @@ Otherwise, you can also use PyCharm:
 
 
 
->On Linux
+> On Linux
+
+
+There's different _distribution_ and _version_ so there's billow some of them, for the better execution you can install or update your version of python to python 3.10 or 3.9 : 
+
+
+```bash
+  python3 --version
+  pip3 --version
+  pip3 install --upgrade pip
+  pip3 install tk
+```
 
 Known for the richness of its distributions, there are indeed several commands related to this. They will all be executed in the terminal.
 

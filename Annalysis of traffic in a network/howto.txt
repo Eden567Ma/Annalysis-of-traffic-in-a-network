@@ -2,7 +2,7 @@ Project Summary
 
 This project integrates all the knowledge we have acquired so far. It covers various aspects such as the components of a frame, the size, and the content of these fields. It also delves into the main procedures crucial for extracting protocols and defining their values.
 
-This work has been briefly introduced in our video. In addition to that, here is this file which outlines the steps to be taken.
+
 Execution Steps
 
     Download and Unzip the repository.

@@ -4,8 +4,8 @@
 
 > This project is a Network Traffic Visualizer. It is coded in Python. It allows generating traffic flows that refer to frames exchanged as part of a protocol executed by two machines.
 
-## Archive Contents
 
+## Archive Contents
 
 This archive contains:
 1. The file _visualisateur.py_, the source code of the project

@@ -48,6 +48,7 @@ You need to import the Tkinter library either directly from the official website
   pip3 install --upgrade pip
   pip3 install tk
 ```
+
 Alternatively,
 
 ```bash

@@ -10,7 +10,7 @@
 This archive contains:
 1. The file _visualisateur.py_, the source code of the project
 2. The _howto_ file which explains how to run the program.
-3. _.txt_ files, which contain either the frames to be analyzed.
+3. The _.txt_ files, which contain either the frames to be analyzed.
 4. An Interface that allows visualizing information related to data traffic in a network.
 
 
